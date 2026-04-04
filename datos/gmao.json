@@ -1,0 +1,23 @@
+{
+    "EQ-0009": {
+        "nombre": "presidencia",
+        "marca": "trane",
+        "tipo": "cassete",
+        "ubicacion": "cubierta 1",
+        "historial": [
+            {
+                "fecha": "2026-04-04T13:25:32.774335",
+                "SH": 12.0,
+                "SC": 2.0,
+                "COP": 1.0
+            }
+        ]
+    },
+    "EQ-0010": {
+        "nombre": "administracion",
+        "marca": "lg",
+        "tipo": "mini-split",
+        "ubicacion": "cubierta 2",
+        "historial": []
+    }
+}
